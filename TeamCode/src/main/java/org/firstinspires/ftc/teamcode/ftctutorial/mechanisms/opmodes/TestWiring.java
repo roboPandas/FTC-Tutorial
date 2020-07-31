@@ -1,8 +1,8 @@
-package org.firstinspires.ftc.teamcode.opmodes;
+package org.firstinspires.ftc.teamcode.ftctutorial.mechanisms.opmodes;
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
-import org.firstinspires.ftc.teamcode.mechanisms.ProgrammingBoard;
-import org.firstinspires.ftc.teamcode.mechanisms.TestItem;
+import org.firstinspires.ftc.teamcode.ftctutorial.mechanisms.mechanisms.ProgrammingBoard;
+import org.firstinspires.ftc.teamcode.ftctutorial.mechanisms.mechanisms.TestItem;
 import java.util.ArrayList;
 
 @TeleOp
