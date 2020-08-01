@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.teamcode.FTCtutorial;
+package org.firstinspires.ftc.teamcode.ftctutorial;
 
 public class RobotLocation {
     double angle;

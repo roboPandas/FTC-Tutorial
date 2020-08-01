@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.teamcode.FTCtutorial;
+package org.firstinspires.ftc.teamcode.ftctutorial;
 
 import org.firstinspires.ftc.robotcore.external.navigation.AngleUnit;
 
