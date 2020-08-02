@@ -10,22 +10,7 @@ import org.firstinspires.ftc.teamcode.Purepursuit.Trajectories.Trajectory2D;
 
 import java.util.ArrayList;
 
-/**
- * @author Zack Horton
- * @author Sukhsimran Singh
- * If you're reading this that means you're cool, I like you!
- * I am Zack Horton from team 11536 and I first made this class in 2020 during my ISP (Independent Senior Project)
- * Anyways, the point of this class was to be a jumping off point for teams in the future to use to learn about coding the robot
- * As well as hopefully to be used (at least partly) in comp
- * Something you should know is that as i'm writing this, all locations are measured in inches,
- * this is not necessary though, I just arbitrarially chose inches and it can be changed in the odometry class by changing one value
- * Now, if you know who I am, that's awesome! Reach out to me, I miss you :(
- * If you don't know who I am, that's even cooler! That means this lived on much longer than I expected or that it got shared with some people from another team or something
- * So if you do see this and don't know me, I'd love to hear from you, my instagram is probably still 'zack_horton' give me a follow and DM me about how the season is going
- * Ok, its 1 AM while I'm writing this so I should probably go to bed but before I do I want to start something. If you're working on this, add your name to the author list so other people know how cool you are
- * @version 1.0
- * @since 1.0
- */
+
 public abstract class ReneBase extends LinearOpMode {
 
     /*
