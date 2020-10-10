@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.teamcode.ftctutorial.mechanisms;
+package org.firstinspires.ftc.teamcode.FTCtutorial.mechanisms;
 
 import com.qualcomm.hardware.bosch.BNO055IMU;
 import com.qualcomm.robotcore.hardware.AnalogInput;

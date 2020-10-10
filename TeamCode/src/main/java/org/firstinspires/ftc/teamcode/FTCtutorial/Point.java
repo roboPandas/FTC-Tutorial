@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.teamcode.ftctutorial;
+package org.firstinspires.ftc.teamcode.FTCtutorial;
 
 public class Point{
     int x;

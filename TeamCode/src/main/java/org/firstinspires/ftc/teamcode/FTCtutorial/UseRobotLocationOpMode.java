@@ -1,9 +1,9 @@
-package org.firstinspires.ftc.teamcode.ftctutorial;
+package org.firstinspires.ftc.teamcode.FTCtutorial;
 
  import com.qualcomm.robotcore.eventloop.opmode.OpMode;
  import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 
- import org.firstinspires.ftc.teamcode.ftctutorial.RobotLocation;
+ import org.firstinspires.ftc.teamcode.FTCtutorial.RobotLocation;
 
 @TeleOp
  public class UseRobotLocationOpMode extends OpMode {
